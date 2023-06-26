@@ -1,8 +1,4 @@
-Project Title: Transcribot: Automated Audio Transcription Powered by AssemblyAI
-
-README.md:
-
-# Transcribot: Automated Audio Transcription Powered by AssemblyAI
+# Transcribot: Automated Audio Transcription
 
 Welcome to Transcribot, a powerful Python script that leverages the cutting-edge AssemblyAI API to provide seamless and accurate automated audio transcription. With Transcribot, you can effortlessly transcribe audio files into text, saving you valuable time and effort.
 
@@ -36,7 +32,7 @@ Transcribot is straightforward to use. Simply follow these instructions:
 
 1. Open the `Main.py` file.
 
-2. In the `filename` variable, either provide the name of your audio file as a command-line argument or manually assign the filename.
+2. Add your audio file to the same repository and run the script below. You can also test it with the given "testing.wav" audio file
 
 3. Run the script by executing the following command in your terminal:
 
